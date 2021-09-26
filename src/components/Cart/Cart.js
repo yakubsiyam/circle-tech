@@ -12,9 +12,13 @@ const Cart = (props) => {
 
     return (
         <div className="card p-2 ms-4 text-center">
-            <h5><span className = "text-danger">People Added</span> {props.cart.length}</h5>
-            <h5><span className = "text-danger">Total:</span> {total}</h5>
-            <p>{props.cart.name}</p>
+            <h5><span className = "text-danger">People Added:</span> {props.cart.length}</h5>
+            <h5><span className = "text-danger">Total:</span> ${total}</h5>
+            <ul className = "list-group md-5">
+                {
+                    cart.map((people, index) => <li key = {index} className = "list-group-item">{people.name}</li>)
+                }
+            </ul>
         </div>
     );
 };
