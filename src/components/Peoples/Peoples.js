@@ -17,7 +17,7 @@ const Peoples = (props) => {
                     <p className = "fw-bold"><span className = "text-danger">Name:</span> {name}</p>
                     <p className = "fw-bold"> <span className = "text-danger">Position:</span> {position}</p>
                     <p className = "fw-bold"><span className = "text-danger">Experience:</span> {experience}</p>
-                    <p className = "fw-bold"><span className = "text-danger">Salary:</span> {salary}</p>
+                    <p className = "fw-bold"><span className = "text-danger">Salary:</span> ${salary}</p>
                     <p className = "fw-bold"><span className = "text-danger">Country:</span> {country}</p>
                 </div>
 
@@ -25,7 +25,7 @@ const Peoples = (props) => {
                 <div className = "text-center mb-2">
                     <button
                     onClick={() => props.handleAddToCart(props.people)}
-                    className="btn btn-danger w-50"><FontAwesomeIcon icon={faUserAlt} /> Hire</button>
+                    className="btn btn-danger w-50"><FontAwesomeIcon icon={faUserAlt} /> Hire Me</button>
                 </div>
             </div>
         </div>

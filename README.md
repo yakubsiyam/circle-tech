@@ -1,4 +1,4 @@
-# Employee Picker
+# Circle Tech
 
 Live site link: https://circle-tech.netlify.app/
 

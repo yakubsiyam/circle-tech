@@ -18,7 +18,7 @@ const Header = () => {
                     </form>
                 </div>
             </nav>
-            <h2 className ="text-center my-5">Total Budget:<span className = "text-danger"> $1 Million</span></h2>
+            <h2 className ="text-center my-5">Total Salaries Budget:<span className = "text-danger"> $1 Million</span></h2>
         </div>
     );
 };
