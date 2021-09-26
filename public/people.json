@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "name": "Bill Gates",
+        "position": "Owner",
+        "experience": "20 Years",
+        "salary": 2000000,
+        "country": "USA",
+        "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4ebe0c87612dab4f12a597%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D292%26cropX2%3D3684%26cropY1%3D592%26cropY2%3D3987"
+    },
+
+    {
+        "id": 2,
+        "name": "Mark Zuckerberg",
+        "position": "CEO",
+        "experience": "18 Years",
+        "salary": 1500000,
+        "country": "USA",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/1/14/Mark_Zuckerberg_F8_2018_Keynote_%28cropped_2%29.jpg"
+    },
+
+    {
+        "id": 3,
+        "name": "Jeff Bezos",
+        "position": "Manager",
+        "experience": "16 Years",
+        "salary": 1200000,
+        "country": "England",
+        "img": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTY2NzA3ODE3OTgwMzcyMjYw/jeff-bezos-andrew-harrer_bloomberg-via-getty-images.jpg"
+    },
+
+    {
+        "id": 4,
+        "name": "Elon Mask",
+        "position": "Quality Assurance Manager",
+        "experience": "15 Years",
+        "salary": 1000000,
+        "country": "USA",
+        "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f47d4de7637290765bce495%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D1699%26cropX2%3D3845%26cropY1%3D559%26cropY2%3D2704"
+    },
+
+    {
+        "id": 5,
+        "name": "Zaheed Sabur",
+        "position": "Programmer",
+        "experience": "10 Years",
+        "salary": 900000,
+        "country": "Bangladesh",
+        "img": "https://media-eng.dhakatribune.com/uploads/2019/05/web-zaheed-1556971049382.jpg"
+    },
+
+    {
+        "id": 6,
+        "name": "Tamim Shahriar Subeen",
+        "position": "Programmer",
+        "experience": "10 Years",
+        "salary": 950000,
+        "country": "Bangladesh",
+        "img": "https://dimikcomputing.com/wp-content/uploads/2016/04/subeen-440x400.jpg"
+    },
+
+    {
+        "id": 7,
+        "name": "Tahmid Rafi",
+        "position": "Programmer",
+        "experience": "8 Years",
+        "salary": 800000,
+        "country": "Bangladesh",
+        "img": "https://avatars.githubusercontent.com/u/4125245?v=4"
+    },
+
+    {
+        "id": 8,
+        "name": "Zulkarnine Mahmud",
+        "position": "Programmer",
+        "experience": "10 Years",
+        "salary": 1000000,
+        "country": "Bangladesh",
+        "img": "https://wiki.factsider.com/wp-content/uploads/2019/09/Zulkarnine-Mahmud-273x300.png"
+    },
+
+    {
+        "id": 9,
+        "name": "Shahriar Manzoor",
+        "position": "Programmer",
+        "experience": "14 Years",
+        "salary": 1200000,
+        "country": "Bangladesh",
+        "img": "https://scontent.fdac13-1.fna.fbcdn.net/v/t31.18172-8/16836374_1405812592791735_5640607320521619428_o.jpg?_nc_cat=105&ccb=1-5&_nc_sid=9267fe&_nc_ohc=6JFY8eVC-JgAX97mrQl&_nc_ht=scontent.fdac13-1.fna&oh=d530ca2762a2548103bb64ddf40aa753&oe=6174C9C0"
+    },
+
+    {
+        "id": 10,
+        "name": "Edward Snowden",
+        "position": "Hacker",
+        "experience": "7 Years",
+        "salary": 1400000,
+        "country": "England",
+        "img": "https://images.theconversation.com/files/26199/original/937fny3s-1372212094.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip"
+    },
+
+    {
+        "id": 11,
+        "name": "Joma Tech",
+        "position": "Quality Tester",
+        "experience": "6 Years",
+        "salary": 9000000,
+        "country": "South Korea",
+        "img": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/3005842/settings_images/moYRncrfSGFS5hEA0vre_vlcsnap-2020-11-10-16h36m13s495.png"
+    },
+
+    {
+        "id": 12,
+        "name": "Clément Mihailescu",
+        "position": "Tester",
+        "experience": "8 Years",
+        "salary": 7000000,
+        "country": "Russia",
+        "img": "https://yt3.ggpht.com/ytc/AAUvwnhuwbq9AMf5ub-3VPuJ2KLuLHizmzJgI6a1iR-7VKI=s240-c-k-c0x00ffffff-no-rj"
+    }
+
+]
